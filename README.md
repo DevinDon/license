@@ -4,7 +4,7 @@ My licenses.
 
 # Contact
 
-[Blog on GitHub](https://devindon.github.io)
+[Blog on GitHub](https://blog.don.red)
 
 [Email](mailto:I.INF@Outlook.com)
 
