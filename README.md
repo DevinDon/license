@@ -10,7 +10,7 @@ License for DevinDon / IInfinity.
 
 ## [THE MIT LICENSE](https://raw.githubusercontent.com/DevinDon/license/master/THE%20MIT%20LICENSE)
 
-Copyright © 2018+ Devin Don
+Copyright IInfinity © 2018+
 
 LICENSE: MIT
 
@@ -24,7 +24,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 ## [THE CC BY-NC 4.0 LICENSE](https://raw.githubusercontent.com/DevinDon/license/master/THE%20CC%20BY-NC%204.0%20LICENSE)
 
-Copyright © 2018+ Devin Don
+Copyright IInfinity © 2018+
 
 LICENSE: CC BY-NC 4.0
 
